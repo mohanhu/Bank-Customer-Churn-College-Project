@@ -23,7 +23,7 @@ scikit-learn==0.23.1
 scipy 
 seaborn==0.10.1
 six==1.15.0
-sklearn==0.0
+scikit-learn>=0.18
 threadpoolctl==2.1.0
 tornado==6.0.4
 urllib3==1.26.5
